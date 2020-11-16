@@ -1,13 +1,20 @@
 # Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis
 
+This repository contains code for our EMNLP 2020 paper: 
 
-##Dependencies
+Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis
+
+
+
+## Dependencies
 -**Python 3**
 -**torch 1.5.1**
 -**tqdm 4.42.1**
 -**pytorch-transformers 1.2.0**
 
-##Usage
+
+
+## Usage
 
 1. First step, run:
 	bash ./scripts/run_feature_learning.sh
